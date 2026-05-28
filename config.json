@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "sessionencrypt",
+        "uuid": 32461602,
+        "checksum": "ejjux"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
